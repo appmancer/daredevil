@@ -1,0 +1,3 @@
+[submodule "namor"]
+	path = namor
+	url = git@github.com:appmancer/namor.git
